@@ -1,8 +1,5 @@
-Here is a draft for a blog post (or an article for Dev.to/Medium) based on our discussion. I have structured it to highlight the journey from a simple observation to a generalized algorithm, framing it as a "branchless optimization" technique.
-
-***
-
 # Reinventing Legendre: A Branchless Formula for Summing Digits
+Drafted with Gemini 3 after this "original" idea: https://oldstuff286.blogspot.com/2020/11/credit-card-check-v0.html
 
 As programmers, we are often taught that there is one "right way" to sum the digits of an integer. You set up a loop, you modulo by 10 to get the last digit, you divide by 10 to shift right, and you repeat until the number is 0.
 
